@@ -1,5 +1,7 @@
 # Graceful shutdown for http.Server (Go 1.8+)
 
+Tiny utility for shutting down go servers gracefully.
+
 ## Install
 
 ```sh
